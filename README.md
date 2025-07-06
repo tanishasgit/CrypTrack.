@@ -42,5 +42,5 @@ Here’s a quick look at the app in action:
 
 | Home View | Table View | Chart View |
 |-----------|------------|------------|
-| ![Home View](https://github.com/user-attachments/assets/c3b01562-715a-4283-be75-e2d04199d851) | ![Table View](https://github.com/user-attachments/assets/26b55ad9-a747-4d84-a40c-116998919ead) | ![Chart View](https://github.com/user-attachments/assets/9c42ca66-c211-4174-b302-00cbb2e0988e) |
+| ![Home View](./screenshots/1.png) | ![Table View](./screenshots/2.png) | ![Chart View](./screenshots/3.png) |
 
