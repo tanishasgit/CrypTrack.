@@ -1,12 +1,12 @@
-# 🚀 CryptoTrack — Your Crypto Price Companion
+# 🚀 CrypTrack — Your Crypto Price Companion
 
-CryptoTrack is a sleek, real-time cryptocurrency price tracking web app built using React.js and the CoinGecko API. Whether you're a casual watcher or an active investor, this app gives you a simple, clean interface to stay updated with market movements — all visualized through elegant line charts using Google Charts.
+CrypTrack is a sleek, real-time cryptocurrency price tracking web app built using React.js and the CoinGecko API. Whether you're a casual watcher or an active investor, this app gives you a simple, clean interface to stay updated with market movements — all visualized through elegant line charts using Google Charts.
 
 ---
 
 ## 🧠 Why I Built This
 
-With the ever-growing buzz around cryptocurrencies, I wanted to build something practical yet fun to code. I created CryptoTrack as a personal project to:
+With the ever-growing buzz around cryptocurrencies, I wanted to build something practical yet fun to code. I created CrypTrack as a personal project to:
 
 - Learn and apply React hooks & context
 - Work with external APIs (CoinGecko)
