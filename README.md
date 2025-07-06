@@ -42,5 +42,5 @@ Here’s a quick look at the app in action:
 
 | Home View | Table View | Chart View |
 |-----------|------------|------------|
-| ![Home View](./screenshots/1.png) | ![Table View](./screenshots/2.png) | ![Chart View](./screenshots/3.png) |
+| ![Home View](1.png) | ![Table View](2.png) | ![Chart View](3.png) |
 
